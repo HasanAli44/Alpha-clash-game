@@ -1,5 +1,7 @@
 ## Alpha Game With JS
 
+## Live Link [https://hasanali44.github.io/alpha-game/]
+
 ```
 ##utiliy.js
 -----------
